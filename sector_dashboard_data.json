@@ -1,0 +1,2670 @@
+{
+  "generatedAt": "2026-07-06T13:02",
+  "sectors": [
+    {
+      "id": "semiconductor_equipment_materials",
+      "name": "半导体材料与设备",
+      "description": "半导体设备、电子化学品、湿法化学品、靶材、显示材料和工程制造。",
+      "children": [
+        {
+          "raw": "湿法化学品",
+          "type": "概念/板块",
+          "code": "CUSTOM_湿法化学品",
+          "name": "湿法化学品",
+          "quoteId": "",
+          "theme": "湿法化学品",
+          "event": "",
+          "industry": "",
+          "price": null,
+          "marketCap": null,
+          "oneMonthChange": null,
+          "fiveDayChange": null,
+          "previousDayChange": null,
+          "ma5Direction": "",
+          "ma20Direction": "",
+          "limitUpStreak": 0,
+          "chartPath": "",
+          "role": "板块概念",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "",
+          "fiveDayText": "",
+          "previousDayText": "",
+          "limitUpText": ""
+        },
+        {
+          "raw": "159558",
+          "type": "ETF/基金",
+          "code": "159558",
+          "name": "半导体设备ETF易方达",
+          "quoteId": "0.159558",
+          "theme": "半导体设备ETF",
+          "event": "",
+          "industry": "",
+          "price": 4.108,
+          "marketCap": 17282000000.0,
+          "oneMonthChange": 0.5014619883040934,
+          "fiveDayChange": -0.09094932507191866,
+          "previousDayChange": -0.002428363283147328,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/159558_半导体设备ETF易方达.html",
+          "role": "ETF/基金",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials",
+            "broad_index_funds"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备",
+            "指数/宽基基金"
+          ],
+          "oneMonthText": "50.15%",
+          "fiveDayText": "-9.09%",
+          "previousDayText": "-0.24%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：京仪装备",
+          "type": "股票",
+          "code": "688652",
+          "name": "京仪装备",
+          "quoteId": "1.688652",
+          "theme": "半导体设备；真空装备",
+          "event": "",
+          "industry": "",
+          "price": 201.0,
+          "marketCap": 33768000000.0,
+          "oneMonthChange": 0.6288492706645057,
+          "fiveDayChange": 0.025457884801795894,
+          "previousDayChange": 0.038813375368236036,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/688652_京仪装备.html",
+          "role": "个股",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "62.88%",
+          "fiveDayText": "2.55%",
+          "previousDayText": "3.88%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：伟测科技",
+          "type": "股票",
+          "code": "688372",
+          "name": "伟测科技",
+          "quoteId": "1.688372",
+          "theme": "半导体测试；先进封测",
+          "event": "",
+          "industry": "",
+          "price": 181.16,
+          "marketCap": 30451000000.0,
+          "oneMonthChange": 0.3078255847531042,
+          "fiveDayChange": 0.06973723058754056,
+          "previousDayChange": 0.11620455945779407,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/688372_伟测科技.html",
+          "role": "个股",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "30.78%",
+          "fiveDayText": "6.97%",
+          "previousDayText": "11.62%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "太极实业",
+          "type": "股票",
+          "code": "600667",
+          "name": "太极实业",
+          "quoteId": "1.600667",
+          "theme": "半导体工程/电子制造",
+          "event": "",
+          "industry": "",
+          "price": 28.01,
+          "marketCap": 58584000000.0,
+          "oneMonthChange": 0.8830252100840337,
+          "fiveDayChange": -0.031968204596509286,
+          "previousDayChange": -0.065086782376502,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/600667_太极实业.html",
+          "role": "个股",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "88.30%",
+          "fiveDayText": "-3.20%",
+          "previousDayText": "-6.51%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：富创精密",
+          "type": "股票",
+          "code": "688409",
+          "name": "富创精密",
+          "quoteId": "1.688409",
+          "theme": "半导体设备零部件；精密制造",
+          "event": "",
+          "industry": "",
+          "price": 252.03,
+          "marketCap": 77174000000.0,
+          "oneMonthChange": 0.8374890638670167,
+          "fiveDayChange": -0.15426174496644296,
+          "previousDayChange": 0.029366116647606688,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/688409_富创精密.html",
+          "role": "个股",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "83.75%",
+          "fiveDayText": "-15.43%",
+          "previousDayText": "2.94%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：新莱应材",
+          "type": "股票",
+          "code": "300260",
+          "name": "新莱应材",
+          "quoteId": "0.300260",
+          "theme": "半导体设备；洁净材料；高纯工艺系统",
+          "event": "",
+          "industry": "",
+          "price": 88.08,
+          "marketCap": 35920000000.0,
+          "oneMonthChange": 0.4303345241961676,
+          "fiveDayChange": -0.14980694980694975,
+          "previousDayChange": -0.03790278536318947,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300260_新莱应材.html",
+          "role": "个股",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "43.03%",
+          "fiveDayText": "-14.98%",
+          "previousDayText": "-3.79%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "江丰电子",
+          "type": "股票",
+          "code": "300666",
+          "name": "江丰电子",
+          "quoteId": "0.300666",
+          "theme": "半导体材料",
+          "event": "",
+          "industry": "半导体",
+          "price": 330.48,
+          "marketCap": 91202923510,
+          "oneMonthChange": 0.7072893526889499,
+          "fiveDayChange": -0.13595482116711988,
+          "previousDayChange": -0.005147656461663486,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300666_江丰电子.html",
+          "role": "个股",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "70.73%",
+          "fiveDayText": "-13.60%",
+          "previousDayText": "-0.51%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "江化微",
+          "type": "股票",
+          "code": "603078",
+          "name": "江化微",
+          "quoteId": "1.603078",
+          "theme": "湿法化学品待确认/电子化学品",
+          "event": "",
+          "industry": "",
+          "price": 54.6,
+          "marketCap": 21056000000.0,
+          "oneMonthChange": 0.27629733520336597,
+          "fiveDayChange": 0.21522368128199432,
+          "previousDayChange": -0.029505865623889016,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/603078_江化微.html",
+          "role": "个股",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "27.63%",
+          "fiveDayText": "21.52%",
+          "previousDayText": "-2.95%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "603773",
+          "type": "股票",
+          "code": "603773",
+          "name": "沃格光电",
+          "quoteId": "1.603773",
+          "theme": "电子材料/显示",
+          "event": "",
+          "industry": "",
+          "price": 125.21,
+          "marketCap": 28142000000.0,
+          "oneMonthChange": -0.0827106227106228,
+          "fiveDayChange": -0.2334863789409244,
+          "previousDayChange": -0.08672501823486511,
+          "ma5Direction": "下行",
+          "ma20Direction": "下行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/603773_沃格光电.html",
+          "role": "个股",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "-8.27%",
+          "fiveDayText": "-23.35%",
+          "previousDayText": "-8.67%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "珂玛科技",
+          "type": "股票",
+          "code": "301611",
+          "name": "珂玛科技",
+          "quoteId": "0.301611",
+          "theme": "半导体材料；先进陶瓷",
+          "event": "",
+          "industry": "",
+          "price": 148.17,
+          "marketCap": 64602000000.0,
+          "oneMonthChange": 0.4526470588235292,
+          "fiveDayChange": -0.16220338983050853,
+          "previousDayChange": -0.011400000000000077,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/301611_珂玛科技.html",
+          "role": "个股",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "45.26%",
+          "fiveDayText": "-16.22%",
+          "previousDayText": "-1.14%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "至纯科技",
+          "type": "股票",
+          "code": "603690",
+          "name": "至纯科技",
+          "quoteId": "1.603690",
+          "theme": "半导体设备ETF(159558)；湿法化学品待确认",
+          "event": "",
+          "industry": "",
+          "price": 32.71,
+          "marketCap": 12527000000.0,
+          "oneMonthChange": 0.2600154083204931,
+          "fiveDayChange": -0.07572760666855038,
+          "previousDayChange": 0.0009179926560587415,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/603690_至纯科技.html",
+          "role": "个股",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "26.00%",
+          "fiveDayText": "-7.57%",
+          "previousDayText": "0.09%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：长川科技",
+          "type": "股票",
+          "code": "300604",
+          "name": "长川科技",
+          "quoteId": "0.300604",
+          "theme": "半导体设备；测试设备",
+          "event": "",
+          "industry": "",
+          "price": 305.19,
+          "marketCap": 193618000000.0,
+          "oneMonthChange": 0.5229041916167665,
+          "fiveDayChange": -0.09680378810298895,
+          "previousDayChange": 0.00819265964124094,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300604_长川科技.html",
+          "role": "个股",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "52.29%",
+          "fiveDayText": "-9.68%",
+          "previousDayText": "0.82%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "鼎龙股份",
+          "type": "股票",
+          "code": "300054",
+          "name": "鼎龙股份",
+          "quoteId": "0.300054",
+          "theme": "半导体材料；CMP抛光材料",
+          "event": "",
+          "industry": "电子化学品Ⅱ",
+          "price": 90.99,
+          "marketCap": 86737007384,
+          "oneMonthChange": 0.4039500077148588,
+          "fiveDayChange": -0.1250961538461539,
+          "previousDayChange": 0.01234979973297734,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300054_鼎龙股份.html",
+          "role": "个股",
+          "primarySectorId": "semiconductor_equipment_materials",
+          "primarySectorName": "半导体材料与设备",
+          "relatedSectorIds": [
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "40.40%",
+          "fiveDayText": "-12.51%",
+          "previousDayText": "1.23%",
+          "limitUpText": ""
+        }
+      ],
+      "relatedCount": 6,
+      "oneMonthChange": 0.4714906441174047,
+      "changeText": "47.15%"
+    },
+    {
+      "id": "zodiac_concept",
+      "name": "生肖概念",
+      "description": "从图片自选组提炼的生肖名称相关股票，板块涨跌幅按成分市值加权汇总。",
+      "changeWeighting": "market_cap",
+      "children": [
+        {
+          "raw": "生肖概念",
+          "type": "概念/板块",
+          "code": "CUSTOM_生肖概念",
+          "name": "生肖概念",
+          "quoteId": "",
+          "theme": "生肖概念",
+          "event": "",
+          "industry": "",
+          "price": null,
+          "marketCap": null,
+          "oneMonthChange": null,
+          "fiveDayChange": null,
+          "previousDayChange": null,
+          "ma5Direction": "",
+          "ma20Direction": "",
+          "limitUpStreak": 0,
+          "chartPath": "",
+          "role": "板块概念",
+          "primarySectorId": "zodiac_concept",
+          "primarySectorName": "生肖概念",
+          "relatedSectorIds": [
+            "zodiac_concept"
+          ],
+          "relatedSectorNames": [
+            "生肖概念"
+          ],
+          "oneMonthText": "",
+          "fiveDayText": "",
+          "previousDayText": "",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：七匹狼",
+          "type": "股票",
+          "code": "002029",
+          "name": "七匹狼",
+          "quoteId": "0.002029",
+          "theme": "生肖概念",
+          "event": "",
+          "industry": "",
+          "price": 8.35,
+          "marketCap": 5887000000.0,
+          "oneMonthChange": -0.002389486260453988,
+          "fiveDayChange": 0.10582010582010581,
+          "previousDayChange": -0.030162412993039456,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002029_七匹狼.html",
+          "role": "个股",
+          "primarySectorId": "zodiac_concept",
+          "primarySectorName": "生肖概念",
+          "relatedSectorIds": [
+            "zodiac_concept"
+          ],
+          "relatedSectorNames": [
+            "生肖概念"
+          ],
+          "oneMonthText": "-0.24%",
+          "fiveDayText": "10.58%",
+          "previousDayText": "-3.02%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：三羊马",
+          "type": "股票",
+          "code": "001317",
+          "name": "三羊马",
+          "quoteId": "0.001317",
+          "theme": "生肖概念",
+          "event": "",
+          "industry": "",
+          "price": 43.59,
+          "marketCap": 3729999999.9999995,
+          "oneMonthChange": -0.23338023214913817,
+          "fiveDayChange": 0.1174057933863113,
+          "previousDayChange": -0.09993805492463337,
+          "ma5Direction": "上行",
+          "ma20Direction": "下行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/001317_三羊马.html",
+          "role": "个股",
+          "primarySectorId": "zodiac_concept",
+          "primarySectorName": "生肖概念",
+          "relatedSectorIds": [
+            "zodiac_concept"
+          ],
+          "relatedSectorNames": [
+            "生肖概念"
+          ],
+          "oneMonthText": "-23.34%",
+          "fiveDayText": "11.74%",
+          "previousDayText": "-9.99%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：久之洋",
+          "type": "股票",
+          "code": "300516",
+          "name": "久之洋",
+          "quoteId": "0.300516",
+          "theme": "生肖概念",
+          "event": "",
+          "industry": "",
+          "price": 34.77,
+          "marketCap": 8762000000.0,
+          "oneMonthChange": -0.08331136303717368,
+          "fiveDayChange": 0.10066476733143404,
+          "previousDayChange": -0.062044780145670275,
+          "ma5Direction": "上行",
+          "ma20Direction": "下行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300516_久之洋.html",
+          "role": "个股",
+          "primarySectorId": "zodiac_concept",
+          "primarySectorName": "生肖概念",
+          "relatedSectorIds": [
+            "zodiac_concept"
+          ],
+          "relatedSectorNames": [
+            "生肖概念"
+          ],
+          "oneMonthText": "-8.33%",
+          "fiveDayText": "10.07%",
+          "previousDayText": "-6.20%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：五洋自控",
+          "type": "股票",
+          "code": "300420",
+          "name": "五洋自控",
+          "quoteId": "0.300420",
+          "theme": "生肖概念",
+          "event": "",
+          "industry": "",
+          "price": 9.38,
+          "marketCap": 10472000000.0,
+          "oneMonthChange": 0.47716535433070884,
+          "fiveDayChange": 0.07200000000000006,
+          "previousDayChange": -0.05060728744939269,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300420_五洋自控.html",
+          "role": "个股",
+          "primarySectorId": "zodiac_concept",
+          "primarySectorName": "生肖概念",
+          "relatedSectorIds": [
+            "zodiac_concept"
+          ],
+          "relatedSectorNames": [
+            "生肖概念"
+          ],
+          "oneMonthText": "47.72%",
+          "fiveDayText": "7.20%",
+          "previousDayText": "-5.06%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：天洋新材",
+          "type": "股票",
+          "code": "603330",
+          "name": "天洋新材",
+          "quoteId": "1.603330",
+          "theme": "生肖概念",
+          "event": "",
+          "industry": "",
+          "price": 8.66,
+          "marketCap": 3747000000.0,
+          "oneMonthChange": 0.11741935483870969,
+          "fiveDayChange": 0.17663043478260865,
+          "previousDayChange": -0.010285714285714231,
+          "ma5Direction": "上行",
+          "ma20Direction": "走平",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/603330_天洋新材.html",
+          "role": "个股",
+          "primarySectorId": "zodiac_concept",
+          "primarySectorName": "生肖概念",
+          "relatedSectorIds": [
+            "zodiac_concept"
+          ],
+          "relatedSectorNames": [
+            "生肖概念"
+          ],
+          "oneMonthText": "11.74%",
+          "fiveDayText": "17.66%",
+          "previousDayText": "-1.03%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：奥飞娱乐",
+          "type": "股票",
+          "code": "002292",
+          "name": "奥飞娱乐",
+          "quoteId": "0.002292",
+          "theme": "生肖概念",
+          "event": "",
+          "industry": "",
+          "price": 7.44,
+          "marketCap": 11002000000.0,
+          "oneMonthChange": 0.04788732394366213,
+          "fiveDayChange": 0.14110429447852768,
+          "previousDayChange": -0.03751617076326008,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002292_奥飞娱乐.html",
+          "role": "个股",
+          "primarySectorId": "zodiac_concept",
+          "primarySectorName": "生肖概念",
+          "relatedSectorIds": [
+            "zodiac_concept"
+          ],
+          "relatedSectorNames": [
+            "生肖概念"
+          ],
+          "oneMonthText": "4.79%",
+          "fiveDayText": "14.11%",
+          "previousDayText": "-3.75%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：水羊股份",
+          "type": "股票",
+          "code": "300740",
+          "name": "水羊股份",
+          "quoteId": "0.300740",
+          "theme": "生肖概念",
+          "event": "",
+          "industry": "",
+          "price": 21.21,
+          "marketCap": 8323999999.999999,
+          "oneMonthChange": -0.075454426572512,
+          "fiveDayChange": 0.21540312876052958,
+          "previousDayChange": -0.056914184081814034,
+          "ma5Direction": "上行",
+          "ma20Direction": "下行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300740_水羊股份.html",
+          "role": "个股",
+          "primarySectorId": "zodiac_concept",
+          "primarySectorName": "生肖概念",
+          "relatedSectorIds": [
+            "zodiac_concept"
+          ],
+          "relatedSectorNames": [
+            "生肖概念"
+          ],
+          "oneMonthText": "-7.55%",
+          "fiveDayText": "21.54%",
+          "previousDayText": "-5.69%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：百洋医药",
+          "type": "股票",
+          "code": "301015",
+          "name": "百洋医药",
+          "quoteId": "0.301015",
+          "theme": "生肖概念",
+          "event": "",
+          "industry": "",
+          "price": 21.2,
+          "marketCap": 11143000000.0,
+          "oneMonthChange": 0.041769041769041726,
+          "fiveDayChange": 0.07070707070707072,
+          "previousDayChange": 0.03667481662591676,
+          "ma5Direction": "上行",
+          "ma20Direction": "走平",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/301015_百洋医药.html",
+          "role": "个股",
+          "primarySectorId": "zodiac_concept",
+          "primarySectorName": "生肖概念",
+          "relatedSectorIds": [
+            "zodiac_concept",
+            "healthcare_medicine"
+          ],
+          "relatedSectorNames": [
+            "生肖概念",
+            "医药观察"
+          ],
+          "oneMonthText": "4.18%",
+          "fiveDayText": "7.07%",
+          "previousDayText": "3.67%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：蒙草生态",
+          "type": "股票",
+          "code": "300355",
+          "name": "蒙草生态",
+          "quoteId": "0.300355",
+          "theme": "生肖概念",
+          "event": "",
+          "industry": "",
+          "price": 2.8,
+          "marketCap": 4492000000.0,
+          "oneMonthChange": -0.07284768211920534,
+          "fiveDayChange": 0.040892193308550207,
+          "previousDayChange": -0.007092198581560294,
+          "ma5Direction": "上行",
+          "ma20Direction": "下行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300355_蒙草生态.html",
+          "role": "个股",
+          "primarySectorId": "zodiac_concept",
+          "primarySectorName": "生肖概念",
+          "relatedSectorIds": [
+            "zodiac_concept"
+          ],
+          "relatedSectorNames": [
+            "生肖概念"
+          ],
+          "oneMonthText": "-7.28%",
+          "fiveDayText": "4.09%",
+          "previousDayText": "-0.71%",
+          "limitUpText": ""
+        }
+      ],
+      "relatedCount": 0,
+      "oneMonthChange": 0.057124452911678336,
+      "changeText": "5.71%"
+    },
+    {
+      "id": "glass_substrate_electronic_fabric",
+      "name": "玻璃基板/电子布",
+      "description": "玻璃基板、电子布、PCB材料、显示材料和相关先进制造标的。",
+      "children": [
+        {
+          "raw": "玻璃基板板块",
+          "type": "概念/板块",
+          "code": "BK1175",
+          "name": "玻璃基板",
+          "quoteId": "90.BK1175",
+          "theme": "玻璃基板板块",
+          "event": "",
+          "industry": "-",
+          "price": 3303.28,
+          "marketCap": 1704828240000,
+          "oneMonthChange": 0.05228820632402509,
+          "fiveDayChange": -0.0635581208114574,
+          "previousDayChange": -0.020164567550411405,
+          "ma5Direction": "下行",
+          "ma20Direction": "走平",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/BK1175_玻璃基板.html",
+          "role": "板块概念",
+          "primarySectorId": "glass_substrate_electronic_fabric",
+          "primarySectorName": "玻璃基板/电子布",
+          "relatedSectorIds": [
+            "glass_substrate_electronic_fabric"
+          ],
+          "relatedSectorNames": [
+            "玻璃基板/电子布"
+          ],
+          "oneMonthText": "5.23%",
+          "fiveDayText": "-6.36%",
+          "previousDayText": "-2.02%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "电子布",
+          "type": "概念/板块",
+          "code": "CUSTOM_电子布",
+          "name": "电子布",
+          "quoteId": "",
+          "theme": "电子布；PCB材料",
+          "event": "",
+          "industry": "",
+          "price": null,
+          "marketCap": null,
+          "oneMonthChange": null,
+          "fiveDayChange": null,
+          "previousDayChange": null,
+          "ma5Direction": "",
+          "ma20Direction": "",
+          "limitUpStreak": 0,
+          "chartPath": "",
+          "role": "板块概念",
+          "primarySectorId": "glass_substrate_electronic_fabric",
+          "primarySectorName": "玻璃基板/电子布",
+          "relatedSectorIds": [
+            "glass_substrate_electronic_fabric"
+          ],
+          "relatedSectorNames": [
+            "玻璃基板/电子布"
+          ],
+          "oneMonthText": "",
+          "fiveDayText": "",
+          "previousDayText": "",
+          "limitUpText": ""
+        },
+        {
+          "raw": "巨石",
+          "type": "股票",
+          "code": "600176",
+          "name": "中国巨石",
+          "quoteId": "1.600176",
+          "theme": "电子布；玻璃纤维；PCB材料",
+          "event": "",
+          "industry": "",
+          "price": 65.4,
+          "marketCap": 261805000000.00003,
+          "oneMonthChange": 0.8391451068616422,
+          "fiveDayChange": -0.07861369399830931,
+          "previousDayChange": -0.077574047954866,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/600176_中国巨石.html",
+          "role": "个股",
+          "primarySectorId": "glass_substrate_electronic_fabric",
+          "primarySectorName": "玻璃基板/电子布",
+          "relatedSectorIds": [
+            "glass_substrate_electronic_fabric"
+          ],
+          "relatedSectorNames": [
+            "玻璃基板/电子布"
+          ],
+          "oneMonthText": "83.91%",
+          "fiveDayText": "-7.86%",
+          "previousDayText": "-7.76%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "中材科技",
+          "type": "股票",
+          "code": "002080",
+          "name": "中材科技",
+          "quoteId": "0.002080",
+          "theme": "电子布；玻璃纤维；复合材料",
+          "event": "",
+          "industry": "",
+          "price": 77.85,
+          "marketCap": 130642000000.0,
+          "oneMonthChange": 0.32397959183673475,
+          "fiveDayChange": -0.1397790055248619,
+          "previousDayChange": -0.08508637912798223,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002080_中材科技.html",
+          "role": "个股",
+          "primarySectorId": "glass_substrate_electronic_fabric",
+          "primarySectorName": "玻璃基板/电子布",
+          "relatedSectorIds": [
+            "glass_substrate_electronic_fabric"
+          ],
+          "relatedSectorNames": [
+            "玻璃基板/电子布"
+          ],
+          "oneMonthText": "32.40%",
+          "fiveDayText": "-13.98%",
+          "previousDayText": "-8.51%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "凯盛",
+          "type": "股票",
+          "code": "600552",
+          "name": "凯盛科技",
+          "quoteId": "1.600552",
+          "theme": "玻璃基板；显示材料",
+          "event": "",
+          "industry": "光学光电子",
+          "price": 24.1,
+          "marketCap": 22765026145,
+          "oneMonthChange": 0.09545454545454546,
+          "fiveDayChange": -0.2344345616264294,
+          "previousDayChange": -0.05080740448995669,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/600552_凯盛科技.html",
+          "role": "个股",
+          "primarySectorId": "glass_substrate_electronic_fabric",
+          "primarySectorName": "玻璃基板/电子布",
+          "relatedSectorIds": [
+            "glass_substrate_electronic_fabric",
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "玻璃基板/电子布",
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "9.55%",
+          "fiveDayText": "-23.44%",
+          "previousDayText": "-5.08%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "国际复材",
+          "type": "股票",
+          "code": "301526",
+          "name": "国际复材",
+          "quoteId": "0.301526",
+          "theme": "电子布；玻璃纤维；复合材料",
+          "event": "",
+          "industry": "",
+          "price": 41.93,
+          "marketCap": 158113000000.0,
+          "oneMonthChange": 0.9093806921675773,
+          "fiveDayChange": -0.12280334728033471,
+          "previousDayChange": -0.10768248563524163,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/301526_国际复材.html",
+          "role": "个股",
+          "primarySectorId": "glass_substrate_electronic_fabric",
+          "primarySectorName": "玻璃基板/电子布",
+          "relatedSectorIds": [
+            "glass_substrate_electronic_fabric"
+          ],
+          "relatedSectorNames": [
+            "玻璃基板/电子布"
+          ],
+          "oneMonthText": "90.94%",
+          "fiveDayText": "-12.28%",
+          "previousDayText": "-10.77%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "宏和",
+          "type": "股票",
+          "code": "603256",
+          "name": "宏和科技",
+          "quoteId": "1.603256",
+          "theme": "电子布；玻纤布；PCB材料",
+          "event": "",
+          "industry": "",
+          "price": 225.13,
+          "marketCap": 203650000000.0,
+          "oneMonthChange": 0.19437429705239473,
+          "fiveDayChange": -0.15776281331836894,
+          "previousDayChange": -0.054075630252100826,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/603256_宏和科技.html",
+          "role": "个股",
+          "primarySectorId": "glass_substrate_electronic_fabric",
+          "primarySectorName": "玻璃基板/电子布",
+          "relatedSectorIds": [
+            "glass_substrate_electronic_fabric"
+          ],
+          "relatedSectorNames": [
+            "玻璃基板/电子布"
+          ],
+          "oneMonthText": "19.44%",
+          "fiveDayText": "-15.78%",
+          "previousDayText": "-5.41%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "泰嘉股份",
+          "type": "股票",
+          "code": "002843",
+          "name": "泰嘉股份",
+          "quoteId": "0.002843",
+          "theme": "电子布/PCB待确认；先进制造",
+          "event": "",
+          "industry": "",
+          "price": 24.86,
+          "marketCap": 6258000000.0,
+          "oneMonthChange": 0.1872015281757402,
+          "fiveDayChange": 0.24924623115577904,
+          "previousDayChange": 0.056523586910327106,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002843_泰嘉股份.html",
+          "role": "个股",
+          "primarySectorId": "glass_substrate_electronic_fabric",
+          "primarySectorName": "玻璃基板/电子布",
+          "relatedSectorIds": [
+            "glass_substrate_electronic_fabric"
+          ],
+          "relatedSectorNames": [
+            "玻璃基板/电子布"
+          ],
+          "oneMonthText": "18.72%",
+          "fiveDayText": "24.92%",
+          "previousDayText": "5.65%",
+          "limitUpText": ""
+        }
+      ],
+      "relatedCount": 0,
+      "oneMonthChange": 0.3716891382675228,
+      "changeText": "37.17%"
+    },
+    {
+      "id": "ai_compute_ascend_cpo",
+      "name": "AI算力/昇腾/CPO",
+      "description": "华为昇腾、AI算力、CPO/光模块、高速连接、数据中心温控和散热链条。",
+      "children": [
+        {
+          "raw": "昇腾",
+          "type": "概念/板块",
+          "code": "BK0995",
+          "name": "华为昇腾",
+          "quoteId": "90.BK0995",
+          "theme": "华为昇腾；AI算力",
+          "event": "",
+          "industry": "",
+          "price": null,
+          "marketCap": null,
+          "oneMonthChange": null,
+          "fiveDayChange": null,
+          "previousDayChange": null,
+          "ma5Direction": "",
+          "ma20Direction": "",
+          "limitUpStreak": 0,
+          "chartPath": "",
+          "role": "板块概念",
+          "primarySectorId": "ai_compute_ascend_cpo",
+          "primarySectorName": "AI算力/昇腾/CPO",
+          "relatedSectorIds": [
+            "ai_compute_ascend_cpo"
+          ],
+          "relatedSectorNames": [
+            "AI算力/昇腾/CPO"
+          ],
+          "oneMonthText": "",
+          "fiveDayText": "",
+          "previousDayText": "",
+          "limitUpText": ""
+        },
+        {
+          "raw": "中石科技",
+          "type": "股票",
+          "code": "300684",
+          "name": "中石科技",
+          "quoteId": "0.300684",
+          "theme": "AI算力；散热材料；消费电子",
+          "event": "",
+          "industry": "",
+          "price": 74.41,
+          "marketCap": 22286000000.0,
+          "oneMonthChange": 0.44653965785381033,
+          "fiveDayChange": 0.3275646743978591,
+          "previousDayChange": 0.1999677471375585,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 1,
+          "chartPath": "kline_charts/300684_中石科技.html",
+          "role": "个股",
+          "primarySectorId": "ai_compute_ascend_cpo",
+          "primarySectorName": "AI算力/昇腾/CPO",
+          "relatedSectorIds": [
+            "ai_compute_ascend_cpo",
+            "electronic_components_storage"
+          ],
+          "relatedSectorNames": [
+            "AI算力/昇腾/CPO",
+            "电子元件与存储"
+          ],
+          "oneMonthText": "44.65%",
+          "fiveDayText": "32.76%",
+          "previousDayText": "20.00%",
+          "limitUpText": "1板"
+        },
+        {
+          "raw": "中际旭创",
+          "type": "股票",
+          "code": "300308",
+          "name": "中际旭创",
+          "quoteId": "0.300308",
+          "theme": "AI算力；CPO；光模块",
+          "event": "",
+          "industry": "通信设备",
+          "price": 1119.19,
+          "marketCap": 1248159457861,
+          "oneMonthChange": -0.03099593935878231,
+          "fiveDayChange": -0.08297540983606555,
+          "previousDayChange": 0.002482078853046632,
+          "ma5Direction": "下行",
+          "ma20Direction": "下行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300308_中际旭创.html",
+          "role": "个股",
+          "primarySectorId": "ai_compute_ascend_cpo",
+          "primarySectorName": "AI算力/昇腾/CPO",
+          "relatedSectorIds": [
+            "ai_compute_ascend_cpo"
+          ],
+          "relatedSectorNames": [
+            "AI算力/昇腾/CPO"
+          ],
+          "oneMonthText": "-3.10%",
+          "fiveDayText": "-8.30%",
+          "previousDayText": "0.25%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "华丰科技",
+          "type": "股票",
+          "code": "688629",
+          "name": "华丰科技",
+          "quoteId": "1.688629",
+          "theme": "华为昇腾；AI算力；高速连接器",
+          "event": "",
+          "industry": "",
+          "price": 210.16,
+          "marketCap": 98408000000.0,
+          "oneMonthChange": 0.6975767366720518,
+          "fiveDayChange": 0.22900584795321643,
+          "previousDayChange": 0.16755555555555546,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/688629_华丰科技.html",
+          "role": "个股",
+          "primarySectorId": "ai_compute_ascend_cpo",
+          "primarySectorName": "AI算力/昇腾/CPO",
+          "relatedSectorIds": [
+            "ai_compute_ascend_cpo"
+          ],
+          "relatedSectorNames": [
+            "AI算力/昇腾/CPO"
+          ],
+          "oneMonthText": "69.76%",
+          "fiveDayText": "22.90%",
+          "previousDayText": "16.76%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "新易盛",
+          "type": "股票",
+          "code": "300502",
+          "name": "新易盛",
+          "quoteId": "0.300502",
+          "theme": "AI算力；CPO；光模块",
+          "event": "",
+          "industry": "通信设备",
+          "price": 522.74,
+          "marketCap": 728833738994,
+          "oneMonthChange": 0.010822925187037091,
+          "fiveDayChange": -0.06144067796610175,
+          "previousDayChange": -0.006197718631178684,
+          "ma5Direction": "下行",
+          "ma20Direction": "走平",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300502_新易盛.html",
+          "role": "个股",
+          "primarySectorId": "ai_compute_ascend_cpo",
+          "primarySectorName": "AI算力/昇腾/CPO",
+          "relatedSectorIds": [
+            "ai_compute_ascend_cpo"
+          ],
+          "relatedSectorNames": [
+            "AI算力/昇腾/CPO"
+          ],
+          "oneMonthText": "1.08%",
+          "fiveDayText": "-6.14%",
+          "previousDayText": "-0.62%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "杭电股份",
+          "type": "股票",
+          "code": "603618",
+          "name": "杭电股份",
+          "quoteId": "1.603618",
+          "theme": "AI算力；铜缆高速连接；电线电缆",
+          "event": "",
+          "industry": "",
+          "price": 44.1,
+          "marketCap": 30489999999.999996,
+          "oneMonthChange": 0.12213740458015288,
+          "fiveDayChange": -0.10529519172245883,
+          "previousDayChange": -0.09999999999999998,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/603618_杭电股份.html",
+          "role": "个股",
+          "primarySectorId": "ai_compute_ascend_cpo",
+          "primarySectorName": "AI算力/昇腾/CPO",
+          "relatedSectorIds": [
+            "ai_compute_ascend_cpo"
+          ],
+          "relatedSectorNames": [
+            "AI算力/昇腾/CPO"
+          ],
+          "oneMonthText": "12.21%",
+          "fiveDayText": "-10.53%",
+          "previousDayText": "-10.00%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "申菱",
+          "type": "股票",
+          "code": "301018",
+          "name": "申菱环境",
+          "quoteId": "0.301018",
+          "theme": "AI算力；数据中心温控；液冷",
+          "event": "",
+          "industry": "",
+          "price": 129.07,
+          "marketCap": 48308000000.0,
+          "oneMonthChange": 0.4099847061393924,
+          "fiveDayChange": 0.2624217527386541,
+          "previousDayChange": 0.09585668194939712,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/301018_申菱环境.html",
+          "role": "个股",
+          "primarySectorId": "ai_compute_ascend_cpo",
+          "primarySectorName": "AI算力/昇腾/CPO",
+          "relatedSectorIds": [
+            "ai_compute_ascend_cpo"
+          ],
+          "relatedSectorNames": [
+            "AI算力/昇腾/CPO"
+          ],
+          "oneMonthText": "41.00%",
+          "fiveDayText": "26.24%",
+          "previousDayText": "9.59%",
+          "limitUpText": ""
+        }
+      ],
+      "relatedCount": 0,
+      "oneMonthChange": 0.27601091517894366,
+      "changeText": "27.60%"
+    },
+    {
+      "id": "robotics_smart_manufacturing",
+      "name": "机器人/智能制造",
+      "description": "机器人、智能制造、激光设备、汽车零部件和自动化相关观察池。",
+      "children": [
+        {
+          "raw": "机器人板块",
+          "type": "概念/板块",
+          "code": "BK1090",
+          "name": "机器人概念",
+          "quoteId": "90.BK1090",
+          "theme": "机器人板块",
+          "event": "",
+          "industry": "",
+          "price": null,
+          "marketCap": null,
+          "oneMonthChange": null,
+          "fiveDayChange": null,
+          "previousDayChange": null,
+          "ma5Direction": "",
+          "ma20Direction": "",
+          "limitUpStreak": 0,
+          "chartPath": "",
+          "role": "板块概念",
+          "primarySectorId": "robotics_smart_manufacturing",
+          "primarySectorName": "机器人/智能制造",
+          "relatedSectorIds": [
+            "robotics_smart_manufacturing"
+          ],
+          "relatedSectorNames": [
+            "机器人/智能制造"
+          ],
+          "oneMonthText": "",
+          "fiveDayText": "",
+          "previousDayText": "",
+          "limitUpText": ""
+        },
+        {
+          "raw": "大族激光",
+          "type": "股票",
+          "code": "002008",
+          "name": "大族激光",
+          "quoteId": "0.002008",
+          "theme": "机器人；智能制造；激光设备",
+          "event": "",
+          "industry": "",
+          "price": 134.67,
+          "marketCap": 138657000000.0,
+          "oneMonthChange": 0.11426443819295051,
+          "fiveDayChange": -0.04624645892351276,
+          "previousDayChange": 0.03879975316260409,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002008_大族激光.html",
+          "role": "个股",
+          "primarySectorId": "robotics_smart_manufacturing",
+          "primarySectorName": "机器人/智能制造",
+          "relatedSectorIds": [
+            "robotics_smart_manufacturing"
+          ],
+          "relatedSectorNames": [
+            "机器人/智能制造"
+          ],
+          "oneMonthText": "11.43%",
+          "fiveDayText": "-4.62%",
+          "previousDayText": "3.88%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "昊志机电",
+          "type": "股票",
+          "code": "300503",
+          "name": "昊志机电",
+          "quoteId": "0.300503",
+          "theme": "机器人；电主轴；伺服系统；工业母机",
+          "event": "",
+          "industry": "",
+          "price": 112.5,
+          "marketCap": 34676000000.0,
+          "oneMonthChange": 0.2929548327778415,
+          "fiveDayChange": 0.46255850234009355,
+          "previousDayChange": 0.013513513513513598,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300503_昊志机电.html",
+          "role": "个股",
+          "primarySectorId": "robotics_smart_manufacturing",
+          "primarySectorName": "机器人/智能制造",
+          "relatedSectorIds": [
+            "robotics_smart_manufacturing"
+          ],
+          "relatedSectorNames": [
+            "机器人/智能制造"
+          ],
+          "oneMonthText": "29.30%",
+          "fiveDayText": "46.26%",
+          "previousDayText": "1.35%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "福赛科技",
+          "type": "股票",
+          "code": "301529",
+          "name": "福赛科技",
+          "quoteId": "0.301529",
+          "theme": "机器人/汽车零部件待确认",
+          "event": "",
+          "industry": "",
+          "price": 130.09,
+          "marketCap": 15406000000.0,
+          "oneMonthChange": 0.08861924686192468,
+          "fiveDayChange": 0.4268479929809168,
+          "previousDayChange": 0.04666130329847151,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/301529_福赛科技.html",
+          "role": "个股",
+          "primarySectorId": "robotics_smart_manufacturing",
+          "primarySectorName": "机器人/智能制造",
+          "relatedSectorIds": [
+            "robotics_smart_manufacturing"
+          ],
+          "relatedSectorNames": [
+            "机器人/智能制造"
+          ],
+          "oneMonthText": "8.86%",
+          "fiveDayText": "42.68%",
+          "previousDayText": "4.67%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "绿地谐波",
+          "type": "股票",
+          "code": "688017",
+          "name": "绿的谐波",
+          "quoteId": "1.688017",
+          "theme": "机器人；谐波减速器；人形机器人",
+          "event": "",
+          "industry": "",
+          "price": 480.0,
+          "marketCap": 87998000000.0,
+          "oneMonthChange": 0.12084063047285465,
+          "fiveDayChange": 0.327360212377634,
+          "previousDayChange": -0.016393442622950838,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/688017_绿的谐波.html",
+          "role": "个股",
+          "primarySectorId": "robotics_smart_manufacturing",
+          "primarySectorName": "机器人/智能制造",
+          "relatedSectorIds": [
+            "robotics_smart_manufacturing"
+          ],
+          "relatedSectorNames": [
+            "机器人/智能制造"
+          ],
+          "oneMonthText": "12.08%",
+          "fiveDayText": "32.74%",
+          "previousDayText": "-1.64%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "超捷股份",
+          "type": "股票",
+          "code": "301005",
+          "name": "超捷股份",
+          "quoteId": "0.301005",
+          "theme": "机器人；汽车零部件；商业航天待确认",
+          "event": "",
+          "industry": "汽车零部件",
+          "price": 112.7,
+          "marketCap": 21183702271,
+          "oneMonthChange": 0.1536492988023339,
+          "fiveDayChange": 0.03536977491961424,
+          "previousDayChange": -0.05006743088334453,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/301005_超捷股份.html",
+          "role": "个股",
+          "primarySectorId": "robotics_smart_manufacturing",
+          "primarySectorName": "机器人/智能制造",
+          "relatedSectorIds": [
+            "robotics_smart_manufacturing",
+            "commercial_space"
+          ],
+          "relatedSectorNames": [
+            "机器人/智能制造",
+            "商业航天"
+          ],
+          "oneMonthText": "15.36%",
+          "fiveDayText": "3.54%",
+          "previousDayText": "-5.01%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "达实智能",
+          "type": "股票",
+          "code": "002421",
+          "name": "达实智能",
+          "quoteId": "0.002421",
+          "theme": "机器人；智能建筑；物联网",
+          "event": "",
+          "industry": "IT服务Ⅱ",
+          "price": 3.24,
+          "marketCap": 6870684510,
+          "oneMonthChange": -0.4345549738219895,
+          "fiveDayChange": -0.055393586005830886,
+          "previousDayChange": -0.032835820895522394,
+          "ma5Direction": "下行",
+          "ma20Direction": "下行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002421_达实智能.html",
+          "role": "个股",
+          "primarySectorId": "robotics_smart_manufacturing",
+          "primarySectorName": "机器人/智能制造",
+          "relatedSectorIds": [
+            "robotics_smart_manufacturing"
+          ],
+          "relatedSectorNames": [
+            "机器人/智能制造"
+          ],
+          "oneMonthText": "-43.46%",
+          "fiveDayText": "-5.54%",
+          "previousDayText": "-3.28%",
+          "limitUpText": ""
+        }
+      ],
+      "relatedCount": 1,
+      "oneMonthChange": 0.05596224554765263,
+      "changeText": "5.60%"
+    },
+    {
+      "id": "commercial_space",
+      "name": "商业航天",
+      "description": "商业航天、天线、航天制造及可回收商业航天相关观察池。",
+      "children": [
+        {
+          "raw": "可回收商业航天",
+          "type": "概念/板块",
+          "code": "CUSTOM_可回收商业航天",
+          "name": "可回收商业航天",
+          "quoteId": "",
+          "theme": "可回收商业航天",
+          "event": "",
+          "industry": "",
+          "price": null,
+          "marketCap": null,
+          "oneMonthChange": null,
+          "fiveDayChange": null,
+          "previousDayChange": null,
+          "ma5Direction": "",
+          "ma20Direction": "",
+          "limitUpStreak": 0,
+          "chartPath": "",
+          "role": "板块概念",
+          "primarySectorId": "commercial_space",
+          "primarySectorName": "商业航天",
+          "relatedSectorIds": [
+            "commercial_space"
+          ],
+          "relatedSectorNames": [
+            "商业航天"
+          ],
+          "oneMonthText": "",
+          "fiveDayText": "",
+          "previousDayText": "",
+          "limitUpText": ""
+        },
+        {
+          "raw": "商业航天",
+          "type": "概念/板块",
+          "code": "BK0963",
+          "name": "商业航天",
+          "quoteId": "90.BK0963",
+          "theme": "商业航天",
+          "event": "",
+          "industry": "",
+          "price": null,
+          "marketCap": null,
+          "oneMonthChange": null,
+          "fiveDayChange": null,
+          "previousDayChange": null,
+          "ma5Direction": "",
+          "ma20Direction": "",
+          "limitUpStreak": 0,
+          "chartPath": "",
+          "role": "板块概念",
+          "primarySectorId": "commercial_space",
+          "primarySectorName": "商业航天",
+          "relatedSectorIds": [
+            "commercial_space"
+          ],
+          "relatedSectorNames": [
+            "商业航天"
+          ],
+          "oneMonthText": "",
+          "fiveDayText": "",
+          "previousDayText": "",
+          "limitUpText": ""
+        },
+        {
+          "raw": "商络电子",
+          "type": "股票",
+          "code": "300975",
+          "name": "商络电子",
+          "quoteId": "0.300975",
+          "theme": "商业航天/电子元器件",
+          "event": "",
+          "industry": "",
+          "price": 39.6,
+          "marketCap": 27205000000.0,
+          "oneMonthChange": -0.04807692307692313,
+          "fiveDayChange": -0.10991233985165205,
+          "previousDayChange": -0.05759162303664922,
+          "ma5Direction": "下行",
+          "ma20Direction": "下行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300975_商络电子.html",
+          "role": "个股",
+          "primarySectorId": "commercial_space",
+          "primarySectorName": "商业航天",
+          "relatedSectorIds": [
+            "commercial_space",
+            "electronic_components_storage"
+          ],
+          "relatedSectorNames": [
+            "商业航天",
+            "电子元件与存储"
+          ],
+          "oneMonthText": "-4.81%",
+          "fiveDayText": "-10.99%",
+          "previousDayText": "-5.76%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "广联航空",
+          "type": "股票",
+          "code": "300900",
+          "name": "广联航空",
+          "quoteId": "0.300900",
+          "theme": "商业航天",
+          "event": "",
+          "industry": "",
+          "price": 40.95,
+          "marketCap": 13419999999.999998,
+          "oneMonthChange": 0.23492159227985554,
+          "fiveDayChange": 0.10377358490566047,
+          "previousDayChange": -0.01253918495297801,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300900_广联航空.html",
+          "role": "个股",
+          "primarySectorId": "commercial_space",
+          "primarySectorName": "商业航天",
+          "relatedSectorIds": [
+            "commercial_space"
+          ],
+          "relatedSectorNames": [
+            "商业航天"
+          ],
+          "oneMonthText": "23.49%",
+          "fiveDayText": "10.38%",
+          "previousDayText": "-1.25%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "航天电器",
+          "type": "股票",
+          "code": "002025",
+          "name": "航天电器",
+          "quoteId": "0.002025",
+          "theme": "商业航天；连接器",
+          "event": "",
+          "industry": "",
+          "price": 92.07,
+          "marketCap": 41802000000.0,
+          "oneMonthChange": 0.5427278820375334,
+          "fiveDayChange": 0.2832055749128919,
+          "previousDayChange": 0.09999999999999987,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 1,
+          "chartPath": "kline_charts/002025_航天电器.html",
+          "role": "个股",
+          "primarySectorId": "commercial_space",
+          "primarySectorName": "商业航天",
+          "relatedSectorIds": [
+            "commercial_space"
+          ],
+          "relatedSectorNames": [
+            "商业航天"
+          ],
+          "oneMonthText": "54.27%",
+          "fiveDayText": "28.32%",
+          "previousDayText": "10.00%",
+          "limitUpText": "1板"
+        },
+        {
+          "raw": "铖昌（主要做天线相关的）",
+          "type": "股票",
+          "code": "001270",
+          "name": "铖昌科技",
+          "quoteId": "0.001270",
+          "theme": "商业航天；天线相关",
+          "event": "",
+          "industry": "",
+          "price": 166.98,
+          "marketCap": 34417000000.0,
+          "oneMonthChange": 0.25918105723550244,
+          "fiveDayChange": 0.08916574261300614,
+          "previousDayChange": 0.022409992652461463,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/001270_铖昌科技.html",
+          "role": "个股",
+          "primarySectorId": "commercial_space",
+          "primarySectorName": "商业航天",
+          "relatedSectorIds": [
+            "commercial_space"
+          ],
+          "relatedSectorNames": [
+            "商业航天"
+          ],
+          "oneMonthText": "25.92%",
+          "fiveDayText": "8.92%",
+          "previousDayText": "2.24%",
+          "limitUpText": ""
+        }
+      ],
+      "relatedCount": 1,
+      "oneMonthChange": 0.24718840211899207,
+      "changeText": "24.72%"
+    },
+    {
+      "id": "electronic_components_storage",
+      "name": "电子元件与存储",
+      "description": "被动元件、电子元器件、存储和半导体应用链条。",
+      "children": [
+        {
+          "raw": "兆易创新",
+          "type": "股票",
+          "code": "603986",
+          "name": "兆易创新",
+          "quoteId": "1.603986",
+          "theme": "存储；半导体；MCU",
+          "event": "",
+          "industry": "半导体",
+          "price": 665.96,
+          "marketCap": 467337162950,
+          "oneMonthChange": 0.4049492626737834,
+          "fiveDayChange": -0.20719047619047615,
+          "previousDayChange": -0.01742479012054232,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/603986_兆易创新.html",
+          "role": "个股",
+          "primarySectorId": "electronic_components_storage",
+          "primarySectorName": "电子元件与存储",
+          "relatedSectorIds": [
+            "electronic_components_storage",
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "电子元件与存储",
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "40.49%",
+          "fiveDayText": "-20.72%",
+          "previousDayText": "-1.74%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "奕东电子",
+          "type": "股票",
+          "code": "301123",
+          "name": "奕东电子",
+          "quoteId": "0.301123",
+          "theme": "电子元件；连接器；FPC",
+          "event": "",
+          "industry": "消费电子",
+          "price": 103.81,
+          "marketCap": 24357978400,
+          "oneMonthChange": 0.0608011444921317,
+          "fiveDayChange": -0.04225482055540175,
+          "previousDayChange": 0.02721155749059956,
+          "ma5Direction": "下行",
+          "ma20Direction": "下行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/301123_奕东电子.html",
+          "role": "个股",
+          "primarySectorId": "electronic_components_storage",
+          "primarySectorName": "电子元件与存储",
+          "relatedSectorIds": [
+            "electronic_components_storage"
+          ],
+          "relatedSectorNames": [
+            "电子元件与存储"
+          ],
+          "oneMonthText": "6.08%",
+          "fiveDayText": "-4.23%",
+          "previousDayText": "2.72%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "旭光电子",
+          "type": "股票",
+          "code": "600353",
+          "name": "旭光电子",
+          "quoteId": "1.600353",
+          "theme": "电子元件；真空器件；陶瓷材料",
+          "event": "",
+          "industry": "其他电子Ⅱ",
+          "price": 45.25,
+          "marketCap": 37503704945,
+          "oneMonthChange": 0.8431771894093685,
+          "fiveDayChange": 0.047938860583603526,
+          "previousDayChange": 0.016168874915787113,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/600353_旭光电子.html",
+          "role": "个股",
+          "primarySectorId": "electronic_components_storage",
+          "primarySectorName": "电子元件与存储",
+          "relatedSectorIds": [
+            "electronic_components_storage"
+          ],
+          "relatedSectorNames": [
+            "电子元件与存储"
+          ],
+          "oneMonthText": "84.32%",
+          "fiveDayText": "4.79%",
+          "previousDayText": "1.62%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "江波龙",
+          "type": "股票",
+          "code": "301308",
+          "name": "江波龙",
+          "quoteId": "0.301308",
+          "theme": "存储/半导体",
+          "event": "",
+          "industry": "",
+          "price": 694.5,
+          "marketCap": 293816000000.0,
+          "oneMonthChange": 0.43178163526161706,
+          "fiveDayChange": -0.03955192919374917,
+          "previousDayChange": 0.1237500404517653,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/301308_江波龙.html",
+          "role": "个股",
+          "primarySectorId": "electronic_components_storage",
+          "primarySectorName": "电子元件与存储",
+          "relatedSectorIds": [
+            "electronic_components_storage",
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "电子元件与存储",
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "43.18%",
+          "fiveDayText": "-3.96%",
+          "previousDayText": "12.38%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "顺络",
+          "type": "股票",
+          "code": "002138",
+          "name": "顺络电子",
+          "quoteId": "0.002138",
+          "theme": "电子元件",
+          "event": "",
+          "industry": "",
+          "price": 62.37,
+          "marketCap": 50290000000.0,
+          "oneMonthChange": 0.12055335968379444,
+          "fiveDayChange": -0.16630987423066623,
+          "previousDayChange": -0.039463542469554524,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002138_顺络电子.html",
+          "role": "个股",
+          "primarySectorId": "electronic_components_storage",
+          "primarySectorName": "电子元件与存储",
+          "relatedSectorIds": [
+            "electronic_components_storage"
+          ],
+          "relatedSectorNames": [
+            "电子元件与存储"
+          ],
+          "oneMonthText": "12.06%",
+          "fiveDayText": "-16.63%",
+          "previousDayText": "-3.95%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：鸿富瀚",
+          "type": "股票",
+          "code": "301086",
+          "name": "鸿富瀚",
+          "quoteId": "0.301086",
+          "theme": "消费电子；AI硬件；功能性材料",
+          "event": "",
+          "industry": "",
+          "price": 193.12,
+          "marketCap": 24307000000.0,
+          "oneMonthChange": 0.37647897362794014,
+          "fiveDayChange": -0.022226722697584855,
+          "previousDayChange": 0.02396606574761395,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/301086_鸿富瀚.html",
+          "role": "个股",
+          "primarySectorId": "electronic_components_storage",
+          "primarySectorName": "电子元件与存储",
+          "relatedSectorIds": [
+            "electronic_components_storage"
+          ],
+          "relatedSectorNames": [
+            "电子元件与存储"
+          ],
+          "oneMonthText": "37.65%",
+          "fiveDayText": "-2.22%",
+          "previousDayText": "2.40%",
+          "limitUpText": ""
+        }
+      ],
+      "relatedCount": 2,
+      "oneMonthChange": 0.37295692752477255,
+      "changeText": "37.30%"
+    },
+    {
+      "id": "broad_index_funds",
+      "name": "指数/宽基基金",
+      "description": "中证500、宽基指数和暂未挂到明确产业主题的基金。",
+      "children": [
+        {
+          "raw": "中证500指数",
+          "type": "指数",
+          "code": "000905",
+          "name": "中证500",
+          "quoteId": "1.000905",
+          "theme": "中证500指数",
+          "event": "",
+          "industry": "",
+          "price": 8717.89,
+          "marketCap": 19101032000000.0,
+          "oneMonthChange": 0.09473783347669662,
+          "fiveDayChange": -0.011699234448350526,
+          "previousDayChange": -0.003129695400708621,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/000905_中证500.html",
+          "role": "指数",
+          "primarySectorId": "broad_index_funds",
+          "primarySectorName": "指数/宽基基金",
+          "relatedSectorIds": [
+            "broad_index_funds"
+          ],
+          "relatedSectorNames": [
+            "指数/宽基基金"
+          ],
+          "oneMonthText": "9.47%",
+          "fiveDayText": "-1.17%",
+          "previousDayText": "-0.31%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "501096",
+          "type": "基金",
+          "code": "501096",
+          "name": "国联安科创LOF",
+          "quoteId": "1.501096",
+          "theme": "基金",
+          "event": "",
+          "industry": "",
+          "price": 2.219,
+          "marketCap": 210000000.0,
+          "oneMonthChange": 0.3663793103448274,
+          "fiveDayChange": -0.061336717428087995,
+          "previousDayChange": 0.01324200913242013,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/501096_国联安科创LOF.html",
+          "role": "ETF/基金",
+          "primarySectorId": "broad_index_funds",
+          "primarySectorName": "指数/宽基基金",
+          "relatedSectorIds": [
+            "broad_index_funds"
+          ],
+          "relatedSectorNames": [
+            "指数/宽基基金"
+          ],
+          "oneMonthText": "36.64%",
+          "fiveDayText": "-6.13%",
+          "previousDayText": "1.32%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "501201",
+          "type": "基金",
+          "code": "501201",
+          "name": "科创红土LOF",
+          "quoteId": "1.501201",
+          "theme": "基金",
+          "event": "",
+          "industry": "",
+          "price": 3.09,
+          "marketCap": 76000000.0,
+          "oneMonthChange": 0.12200435729847481,
+          "fiveDayChange": -0.08579881656804733,
+          "previousDayChange": -0.013094857872884003,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/501201_科创红土LOF.html",
+          "role": "ETF/基金",
+          "primarySectorId": "broad_index_funds",
+          "primarySectorName": "指数/宽基基金",
+          "relatedSectorIds": [
+            "broad_index_funds"
+          ],
+          "relatedSectorNames": [
+            "指数/宽基基金"
+          ],
+          "oneMonthText": "12.20%",
+          "fiveDayText": "-8.58%",
+          "previousDayText": "-1.31%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "168401",
+          "type": "基金",
+          "code": "168401",
+          "name": "红土创新精选LOF",
+          "quoteId": "0.168401",
+          "theme": "基金",
+          "event": "",
+          "industry": "",
+          "price": 7.67,
+          "marketCap": 96000000.0,
+          "oneMonthChange": 0.11823881032220429,
+          "fiveDayChange": -0.08777354900095147,
+          "previousDayChange": -0.02168367346938771,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/168401_红土创新精选LOF.html",
+          "role": "ETF/基金",
+          "primarySectorId": "broad_index_funds",
+          "primarySectorName": "指数/宽基基金",
+          "relatedSectorIds": [
+            "broad_index_funds"
+          ],
+          "relatedSectorNames": [
+            "指数/宽基基金"
+          ],
+          "oneMonthText": "11.82%",
+          "fiveDayText": "-8.78%",
+          "previousDayText": "-2.17%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "ST华谊",
+          "type": "股票",
+          "code": "300027",
+          "name": "ST华谊",
+          "quoteId": "0.300027",
+          "theme": "待确认",
+          "event": "",
+          "industry": "影视院线",
+          "price": 1.75,
+          "marketCap": 4855385358,
+          "oneMonthChange": -0.09793814432989689,
+          "fiveDayChange": 0.10062893081761004,
+          "previousDayChange": -0.011299435028248594,
+          "ma5Direction": "上行",
+          "ma20Direction": "下行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300027_ST华谊.html",
+          "role": "个股",
+          "primarySectorId": "broad_index_funds",
+          "primarySectorName": "指数/宽基基金",
+          "relatedSectorIds": [
+            "broad_index_funds"
+          ],
+          "relatedSectorNames": [
+            "指数/宽基基金"
+          ],
+          "oneMonthText": "-9.79%",
+          "fiveDayText": "10.06%",
+          "previousDayText": "-1.13%",
+          "limitUpText": ""
+        }
+      ],
+      "relatedCount": 1,
+      "oneMonthChange": 0.12068443342246124,
+      "changeText": "12.07%"
+    },
+    {
+      "id": "lithium_fluorochem",
+      "name": "锂电材料/氟化工",
+      "description": "六氟磷酸锂、LiFSI、VC、电解液、磷酸铁锂与氟化工相关标的。",
+      "children": [
+        {
+          "raw": "多氟多",
+          "type": "股票",
+          "code": "002407",
+          "name": "多氟多",
+          "quoteId": "0.002407",
+          "theme": "氟化工/锂电材料",
+          "event": "",
+          "industry": "",
+          "price": 47.78,
+          "marketCap": 56879000000.0,
+          "oneMonthChange": 0.42075527802557233,
+          "fiveDayChange": 0.04643013578624622,
+          "previousDayChange": -0.03161734900689095,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002407_多氟多.html",
+          "role": "个股",
+          "primarySectorId": "lithium_fluorochem",
+          "primarySectorName": "锂电材料/氟化工",
+          "relatedSectorIds": [
+            "lithium_fluorochem"
+          ],
+          "relatedSectorNames": [
+            "锂电材料/氟化工"
+          ],
+          "oneMonthText": "42.08%",
+          "fiveDayText": "4.64%",
+          "previousDayText": "-3.16%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "图片提炼：永太科技业绩预增",
+          "type": "股票",
+          "code": "002326",
+          "name": "永太科技",
+          "quoteId": "0.002326",
+          "theme": "锂电材料；六氟磷酸锂；LiFSI；VC；电解液；新能源车/储能",
+          "event": "2026-06-30财联社电报：永太科技预计2026年上半年归母净利润2.65亿-3.30亿元，同比增长350.68%-461.22%；受益新能源车及储能需求增长，六氟磷酸锂、LiFSI、VC及电解液等产品销量与价格同比提升，Q2净利润预计环比增长53%-115%。",
+          "industry": "",
+          "price": 24.44,
+          "marketCap": 22610000000.0,
+          "oneMonthChange": 0.056636402939904906,
+          "fiveDayChange": 0.022166457549142704,
+          "previousDayChange": -0.05308020147229742,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002326_永太科技.html",
+          "role": "个股",
+          "primarySectorId": "lithium_fluorochem",
+          "primarySectorName": "锂电材料/氟化工",
+          "relatedSectorIds": [
+            "lithium_fluorochem"
+          ],
+          "relatedSectorNames": [
+            "锂电材料/氟化工"
+          ],
+          "oneMonthText": "5.66%",
+          "fiveDayText": "2.22%",
+          "previousDayText": "-5.31%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "璞泰来",
+          "type": "股票",
+          "code": "603659",
+          "name": "璞泰来",
+          "quoteId": "1.603659",
+          "theme": "锂电材料；负极材料；涂覆隔膜",
+          "event": "",
+          "industry": "电池",
+          "price": 27.55,
+          "marketCap": 59072274021,
+          "oneMonthChange": 0.02226345083487935,
+          "fiveDayChange": 0.00218261185885793,
+          "previousDayChange": -0.020270270270270285,
+          "ma5Direction": "走平",
+          "ma20Direction": "走平",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/603659_璞泰来.html",
+          "role": "个股",
+          "primarySectorId": "lithium_fluorochem",
+          "primarySectorName": "锂电材料/氟化工",
+          "relatedSectorIds": [
+            "lithium_fluorochem"
+          ],
+          "relatedSectorNames": [
+            "锂电材料/氟化工"
+          ],
+          "oneMonthText": "2.23%",
+          "fiveDayText": "0.22%",
+          "previousDayText": "-2.03%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "科达利",
+          "type": "股票",
+          "code": "002850",
+          "name": "科达利",
+          "quoteId": "0.002850",
+          "theme": "锂电结构件；机器人供应链待确认",
+          "event": "",
+          "industry": "",
+          "price": 235.17,
+          "marketCap": 67332000000.00001,
+          "oneMonthChange": 0.28381919423517843,
+          "fiveDayChange": 0.321476736345246,
+          "previousDayChange": 0.03983905199858495,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002850_科达利.html",
+          "role": "个股",
+          "primarySectorId": "lithium_fluorochem",
+          "primarySectorName": "锂电材料/氟化工",
+          "relatedSectorIds": [
+            "lithium_fluorochem",
+            "robotics_smart_manufacturing"
+          ],
+          "relatedSectorNames": [
+            "锂电材料/氟化工",
+            "机器人/智能制造"
+          ],
+          "oneMonthText": "28.38%",
+          "fiveDayText": "32.15%",
+          "previousDayText": "3.98%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "龙蟠科技",
+          "type": "股票",
+          "code": "603906",
+          "name": "龙蟠科技",
+          "quoteId": "1.603906",
+          "theme": "锂电材料",
+          "event": "",
+          "industry": "",
+          "price": 29.49,
+          "marketCap": 23330000000.0,
+          "oneMonthChange": 0.2827316224445411,
+          "fiveDayChange": 0.14797507788162,
+          "previousDayChange": 0.006143344709897525,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/603906_龙蟠科技.html",
+          "role": "个股",
+          "primarySectorId": "lithium_fluorochem",
+          "primarySectorName": "锂电材料/氟化工",
+          "relatedSectorIds": [
+            "lithium_fluorochem"
+          ],
+          "relatedSectorNames": [
+            "锂电材料/氟化工"
+          ],
+          "oneMonthText": "28.27%",
+          "fiveDayText": "14.80%",
+          "previousDayText": "0.61%",
+          "limitUpText": ""
+        }
+      ],
+      "relatedCount": 0,
+      "oneMonthChange": 0.21324118969601522,
+      "changeText": "21.32%"
+    },
+    {
+      "id": "photoresist_electronic_chemicals",
+      "name": "光刻胶/电子化学品",
+      "description": "光刻胶、电子化学品、半导体材料和相关国产替代观察池。",
+      "children": [
+        {
+          "raw": "光刻胶板块",
+          "type": "概念/板块",
+          "code": "CUSTOM_光刻胶板块",
+          "name": "光刻胶板块",
+          "quoteId": "",
+          "theme": "光刻胶板块",
+          "event": "",
+          "industry": "",
+          "price": null,
+          "marketCap": null,
+          "oneMonthChange": null,
+          "fiveDayChange": null,
+          "previousDayChange": null,
+          "ma5Direction": "",
+          "ma20Direction": "",
+          "limitUpStreak": 0,
+          "chartPath": "",
+          "role": "板块概念",
+          "primarySectorId": "photoresist_electronic_chemicals",
+          "primarySectorName": "光刻胶/电子化学品",
+          "relatedSectorIds": [
+            "photoresist_electronic_chemicals"
+          ],
+          "relatedSectorNames": [
+            "光刻胶/电子化学品"
+          ],
+          "oneMonthText": "",
+          "fiveDayText": "",
+          "previousDayText": "",
+          "limitUpText": ""
+        },
+        {
+          "raw": "彤程新材",
+          "type": "股票",
+          "code": "603650",
+          "name": "彤程新材",
+          "quoteId": "1.603650",
+          "theme": "光刻胶；电子化学品；半导体材料",
+          "event": "",
+          "industry": "",
+          "price": 85.98,
+          "marketCap": 52971000000.0,
+          "oneMonthChange": 0.6547344110854505,
+          "fiveDayChange": -0.08886770469229954,
+          "previousDayChange": -0.03435114503816794,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/603650_彤程新材.html",
+          "role": "个股",
+          "primarySectorId": "photoresist_electronic_chemicals",
+          "primarySectorName": "光刻胶/电子化学品",
+          "relatedSectorIds": [
+            "photoresist_electronic_chemicals",
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "光刻胶/电子化学品",
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "65.47%",
+          "fiveDayText": "-8.89%",
+          "previousDayText": "-3.44%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "晶瑞电材料",
+          "type": "股票",
+          "code": "300655",
+          "name": "晶瑞电材",
+          "quoteId": "0.300655",
+          "theme": "电子化学品；光刻胶；半导体材料",
+          "event": "",
+          "industry": "电子化学品Ⅱ",
+          "price": 18.59,
+          "marketCap": 20943986096,
+          "oneMonthChange": 0.34710144927536213,
+          "fiveDayChange": -0.04273944387229667,
+          "previousDayChange": -0.030255607720396593,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/300655_晶瑞电材.html",
+          "role": "个股",
+          "primarySectorId": "photoresist_electronic_chemicals",
+          "primarySectorName": "光刻胶/电子化学品",
+          "relatedSectorIds": [
+            "photoresist_electronic_chemicals",
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "光刻胶/电子化学品",
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "34.71%",
+          "fiveDayText": "-4.27%",
+          "previousDayText": "-3.03%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "雅克科技",
+          "type": "股票",
+          "code": "002409",
+          "name": "雅克科技",
+          "quoteId": "0.002409",
+          "theme": "光刻胶；电子化学品；半导体材料",
+          "event": "",
+          "industry": "",
+          "price": 188.92,
+          "marketCap": 89912000000.0,
+          "oneMonthChange": 0.7886763870479074,
+          "fiveDayChange": -0.08936662489154545,
+          "previousDayChange": -0.0530325814536341,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002409_雅克科技.html",
+          "role": "个股",
+          "primarySectorId": "photoresist_electronic_chemicals",
+          "primarySectorName": "光刻胶/电子化学品",
+          "relatedSectorIds": [
+            "photoresist_electronic_chemicals",
+            "semiconductor_equipment_materials"
+          ],
+          "relatedSectorNames": [
+            "光刻胶/电子化学品",
+            "半导体材料与设备"
+          ],
+          "oneMonthText": "78.87%",
+          "fiveDayText": "-8.94%",
+          "previousDayText": "-5.30%",
+          "limitUpText": ""
+        }
+      ],
+      "relatedCount": 0,
+      "oneMonthChange": 0.5968374158029067,
+      "changeText": "59.68%"
+    },
+    {
+      "id": "healthcare_medicine",
+      "name": "医药观察",
+      "description": "医药、化学制药和医疗健康相关观察池。",
+      "children": [
+        {
+          "raw": "信立泰",
+          "type": "股票",
+          "code": "002294",
+          "name": "信立泰",
+          "quoteId": "0.002294",
+          "theme": "医药；创新药；心血管药物",
+          "event": "",
+          "industry": "",
+          "price": 41.8,
+          "marketCap": 46599000000.0,
+          "oneMonthChange": 0.33888532991672005,
+          "fiveDayChange": 0.27051671732522786,
+          "previousDayChange": 0.04291417165668654,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002294_信立泰.html",
+          "role": "个股",
+          "primarySectorId": "healthcare_medicine",
+          "primarySectorName": "医药观察",
+          "relatedSectorIds": [
+            "healthcare_medicine"
+          ],
+          "relatedSectorNames": [
+            "医药观察"
+          ],
+          "oneMonthText": "33.89%",
+          "fiveDayText": "27.05%",
+          "previousDayText": "4.29%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "海南海药",
+          "type": "股票",
+          "code": "000566",
+          "name": "海南海药",
+          "quoteId": "0.000566",
+          "theme": "医药",
+          "event": "",
+          "industry": "",
+          "price": 6.34,
+          "marketCap": 8225000000.0,
+          "oneMonthChange": 0.634020618556701,
+          "fiveDayChange": 0.3986784140969162,
+          "previousDayChange": 0.03420195439739415,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/000566_海南海药.html",
+          "role": "个股",
+          "primarySectorId": "healthcare_medicine",
+          "primarySectorName": "医药观察",
+          "relatedSectorIds": [
+            "healthcare_medicine"
+          ],
+          "relatedSectorNames": [
+            "医药观察"
+          ],
+          "oneMonthText": "63.40%",
+          "fiveDayText": "39.87%",
+          "previousDayText": "3.42%",
+          "limitUpText": ""
+        }
+      ],
+      "relatedCount": 1,
+      "oneMonthChange": 0.4864529742367105,
+      "changeText": "48.65%"
+    },
+    {
+      "id": "energy_equipment",
+      "name": "能源装备/燃气轮机待确认",
+      "description": "能源装备、风电以及待确认的燃气轮机主题。",
+      "children": [
+        {
+          "raw": "燃气轮机概念/板块",
+          "type": "概念/板块",
+          "code": "CUSTOM_燃气轮机概念/板块",
+          "name": "燃气轮机概念/板块",
+          "quoteId": "",
+          "theme": "燃气轮机概念/板块",
+          "event": "",
+          "industry": "",
+          "price": null,
+          "marketCap": null,
+          "oneMonthChange": null,
+          "fiveDayChange": null,
+          "previousDayChange": null,
+          "ma5Direction": "",
+          "ma20Direction": "",
+          "limitUpStreak": 0,
+          "chartPath": "",
+          "role": "板块概念",
+          "primarySectorId": "energy_equipment",
+          "primarySectorName": "能源装备/燃气轮机待确认",
+          "relatedSectorIds": [
+            "energy_equipment"
+          ],
+          "relatedSectorNames": [
+            "能源装备/燃气轮机待确认"
+          ],
+          "oneMonthText": "",
+          "fiveDayText": "",
+          "previousDayText": "",
+          "limitUpText": ""
+        },
+        {
+          "raw": "金风",
+          "type": "股票",
+          "code": "002202",
+          "name": "金风科技",
+          "quoteId": "0.002202",
+          "theme": "燃气轮机概念/板块（父项未添加，待确认）",
+          "event": "",
+          "industry": "",
+          "price": 23.92,
+          "marketCap": 101033000000.0,
+          "oneMonthChange": 0.1028123559243892,
+          "fiveDayChange": 0.10078232857800273,
+          "previousDayChange": -0.027246848312322047,
+          "ma5Direction": "上行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002202_金风科技.html",
+          "role": "个股",
+          "primarySectorId": "energy_equipment",
+          "primarySectorName": "能源装备/燃气轮机待确认",
+          "relatedSectorIds": [
+            "energy_equipment"
+          ],
+          "relatedSectorNames": [
+            "能源装备/燃气轮机待确认"
+          ],
+          "oneMonthText": "10.28%",
+          "fiveDayText": "10.08%",
+          "previousDayText": "-2.72%",
+          "limitUpText": ""
+        }
+      ],
+      "relatedCount": 0,
+      "oneMonthChange": 0.1028123559243892,
+      "changeText": "10.28%"
+    },
+    {
+      "id": "minor_metals_germanium",
+      "name": "锗/小金属",
+      "description": "锗资源、小金属和有色金属链条。",
+      "children": [
+        {
+          "raw": "云南锗业",
+          "type": "股票",
+          "code": "002428",
+          "name": "云南锗业",
+          "quoteId": "0.002428",
+          "theme": "锗/小金属",
+          "event": "",
+          "industry": "",
+          "price": 106.12,
+          "marketCap": 69309000000.0,
+          "oneMonthChange": 0.34961210733816617,
+          "fiveDayChange": -0.14412452617146532,
+          "previousDayChange": 0.009993337774816924,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/002428_云南锗业.html",
+          "role": "个股",
+          "primarySectorId": "minor_metals_germanium",
+          "primarySectorName": "锗/小金属",
+          "relatedSectorIds": [
+            "minor_metals_germanium"
+          ],
+          "relatedSectorNames": [
+            "锗/小金属"
+          ],
+          "oneMonthText": "34.96%",
+          "fiveDayText": "-14.41%",
+          "previousDayText": "1.00%",
+          "limitUpText": ""
+        },
+        {
+          "raw": "600497",
+          "type": "股票",
+          "code": "600497",
+          "name": "驰宏锌锗",
+          "quoteId": "1.600497",
+          "theme": "锗/小金属",
+          "event": "",
+          "industry": "",
+          "price": 11.01,
+          "marketCap": 55495000000.00001,
+          "oneMonthChange": 0.33616504854368934,
+          "fiveDayChange": -0.13984375000000004,
+          "previousDayChange": 0.005479452054794498,
+          "ma5Direction": "下行",
+          "ma20Direction": "上行",
+          "limitUpStreak": 0,
+          "chartPath": "kline_charts/600497_驰宏锌锗.html",
+          "role": "个股",
+          "primarySectorId": "minor_metals_germanium",
+          "primarySectorName": "锗/小金属",
+          "relatedSectorIds": [
+            "minor_metals_germanium"
+          ],
+          "relatedSectorNames": [
+            "锗/小金属"
+          ],
+          "oneMonthText": "33.62%",
+          "fiveDayText": "-13.98%",
+          "previousDayText": "0.55%",
+          "limitUpText": ""
+        }
+      ],
+      "relatedCount": 0,
+      "oneMonthChange": 0.34288857794092775,
+      "changeText": "34.29%"
+    }
+  ],
+  "skipped": [
+    {
+      "raw": "蓝箭",
+      "reason": "上下文更像“蓝箭航天/可回收商业航天”，东方财富未搜到上市标的；仅“蓝箭”会返回蓝箭电子(301348)，为避免误加已跳过。"
+    },
+    {
+      "raw": "563530",
+      "reason": "未找到确定匹配；近似搜索结果：563530 北京2474(债券)"
+    },
+    {
+      "raw": "康拓",
+      "reason": "“康拓”可能指康拓医疗，也可能指原康拓红外/航天智装等旧称，当前输入不够确定，已跳过以避免误加。"
+    }
+  ]
+}

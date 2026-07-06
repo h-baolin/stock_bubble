@@ -1,0 +1,8 @@
+.env
+.env.*
+*.local
+desktop_panel_files/
+analysis/
+analysis_runs/
+sector_dashboard/
+股票观察统计.xlsx
