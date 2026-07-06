@@ -20,7 +20,7 @@
 4. 发布成功后，访问地址通常是：
 
 ```text
-https://你的用户名.github.io/stock-bubble-dashboard/
+https://h-baolin.github.io/stock_bubble/
 ```
 
 这个地址就是后续放进飞书卡片按钮里的看板链接。
